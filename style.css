@@ -93,7 +93,7 @@ html{
 /* home styling */
 .home{
     display: flex;
-    background-image: url(./images/BG.png);
+    background-image: linear-gradient(rgba(7,30,4,0.6), rgba(7,30,4,0.6)), url(./images/BG.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
